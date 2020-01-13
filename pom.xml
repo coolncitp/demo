@@ -236,6 +236,13 @@
 			<artifactId>poi-ooxml</artifactId>
 			<version>4.1.1</version>
 		</dependency>
+
+		<!-- 操作树莓派GPIO的模块 -->
+		<dependency>
+			<groupId>com.pi4j</groupId>
+			<artifactId>pi4j-core</artifactId>
+			<version>1.2</version>
+		</dependency>
 	</dependencies>
 
 	<build>
